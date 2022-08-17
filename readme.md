@@ -31,7 +31,7 @@
 </div>
 <div id="teste">
     <h1>Teste :pencil2:</h1>
-    <p align="center"><a href="https://fernandobardelli.github.io/pizzaria/" target="_blank">Confira aqui</a></p>
+    <p align="center"><a href="https://fernandobardelli.github.io/projeto-medicenter/" target="_blank">Confira aqui</a></p>
 </div>
 <br/><hr><br/>
 <div id="tecnologias">
